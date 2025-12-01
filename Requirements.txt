@@ -1,0 +1,4 @@
+python>=3.8
+rich>=13.7.0        # better console output (colors, UI icons)
+inquirer>=3.4.0     # cleaner command-line menu (optional enhancement)
+tinydb>=4.8.0       # to store issue records in DB instead of memory
